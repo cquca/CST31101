@@ -16,7 +16,7 @@
   * [附录C.七段数码管的使用](lab1/fu-lu-c-qi-duan-shu-ma-guan-de-shi-yong.md)
   * [附录D.\(无\)符号扩展](lab1/fu-lu-d-65e029-fu-hao-kuo-zhan.md)
   * [附录E.Block Memory Generator设置](lab1/fu-lu-e-block-memory-generator-she-zhi.md)
-* Lab\_2
-* Lab\_3
-* Lab\_4
+* [Lab\_2](lab2.md)
+* [Lab\_3](lab3.md)
+* [Lab\_4](lab4.md)
 
