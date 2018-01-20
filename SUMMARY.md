@@ -6,8 +6,8 @@
   * [实验设备](lab1/shi-yan-she-bei.md)
   * [实验原理](lab1/shi-yan-yuan-li.md)
     * [ALU实验](lab1/shi-yan-yuan-li/alushi-yan.md)
-    * 存储器实验
-      * 存储器阵列
+    * [存储器实验](lab1/shi-yan-yuan-li/cun-chu-qi-shi-yan.md)
+      * [存储器阵列](lab1/shi-yan-yuan-li/cun-chu-qi-shi-yan/cun-chu-qi-zhen-lie.md)
       * 存储器端口
     * [Verilog组合逻辑实现方式](lab1/shi-yan-yuan-li/verilogzu-he-luo-ji-shi-xian-fang-shi.md)
   * [实验内容](lab1/shi-yan-nei-rong.md)
