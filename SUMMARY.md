@@ -11,6 +11,8 @@
       * [1.3.2.2.存储器端口](lab1/shi-yan-yuan-li/cun-chu-qi-shi-yan/1322cun-chu-qi-duan-kou.md)
     * [1.3.3.Verilog组合逻辑实现方式](lab1/shi-yan-yuan-li/verilogzu-he-luo-ji-shi-xian-fang-shi.md)
   * [1.4.实验内容](lab1/shi-yan-nei-rong.md)
+    * [1.4.1.ALU实验](lab1/shi-yan-nei-rong/141alushi-yan.md)
+    * [1.4.2.存储器实验](lab1/shi-yan-nei-rong/142cun-chu-qi-shi-yan.md)
   * [附录A.MINISYS开发板基本信息](lab1/fu-lu-a-minisys-kai-fa-ban-ji-ben-xin-xi.md)
   * [附录B.MINISYS引脚说明](lab1/fu-lu-b-minisys-yin-jiao-shuo-ming.md)
   * [附录C.七段数码管的使用](lab1/fu-lu-c-qi-duan-shu-ma-guan-de-shi-yong.md)
