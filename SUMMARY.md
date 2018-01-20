@@ -9,7 +9,7 @@
     * 存储器实验
       * 存储器阵列
       * 存储器端口
-    * Verilog组合逻辑实现方式
+    * [Verilog组合逻辑实现方式](lab1/shi-yan-yuan-li/verilogzu-he-luo-ji-shi-xian-fang-shi.md)
   * [实验内容](lab1/shi-yan-nei-rong.md)
   * [附录A.MINISYS开发板基本信息](lab1/fu-lu-a-minisys-kai-fa-ban-ji-ben-xin-xi.md)
   * [附录B.MINISYS引脚说明](lab1/fu-lu-b-minisys-yin-jiao-shuo-ming.md)
