@@ -23,6 +23,7 @@
   * [2.2.实验设备](lab2/22shi-yan-she-bei.md)
   * [2.3.实验原理](lab2/23shi-yan-yuan-li.md)
   * [2.4.实验内容](lab2/24shi-yan-nei-rong.md)
+  * [2.5.实验步骤](lab2/25shi-yan-bu-zou.md)
   * [附录A](lab2/fu-lu-a.md)
 * [Lab\_3](lab3.md)
 * [Lab\_4](lab4.md)
