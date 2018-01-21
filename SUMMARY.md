@@ -19,6 +19,11 @@
   * [附录D.\(无\)符号扩展](lab1/fu-lu-d-65e029-fu-hao-kuo-zhan.md)
   * [附录E.Block Memory Generator设置](lab1/fu-lu-e-block-memory-generator-she-zhi.md)
 * [Lab\_2](lab2.md)
+  * [2.1.实验目的](lab2/21shi-yan-mu-de.md)
+  * 2.2.实验设备
+  * 2.3.实验原理
+  * 2.4.实验内容
+  * [附录A](lab2/fu-lu-a.md)
 * [Lab\_3](lab3.md)
 * [Lab\_4](lab4.md)
 
